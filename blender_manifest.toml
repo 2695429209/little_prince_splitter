@@ -1,0 +1,22 @@
+schema_version = "1.0.0"
+
+id = "little_prince_splitter"
+version = "1.8.4"
+name = "Little Prince 3D Part Splitter"
+tagline = "Smart tools for 3D printing part splitting, generating cutter/pegs and interactive face sets."
+maintainer = "小王子 & 第九题 (Little Prince & 9th)"
+type = "add-on"
+
+# 支持的最低 Blender 版本
+blender_version_min = "4.2.0"
+
+# 必须使用开源协议 (GPL或类似协议)
+license = [
+  "SPDX-License-Identifier: GPL-2.0-or-later",
+]
+
+# 插件网页链接
+website = "<a href='https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HEWBw2mj66ZLX_v_Ej4_uJVWe4XjjilhHaC4PJT9&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FoLj9Bo8yRPeJQNcYzR8JIw</a>"
+
+# 标签，方便用户搜索
+tags = ["3D Printing", "Modeling", "Tool"]
